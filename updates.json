@@ -6,6 +6,11 @@
           "version": "0.1.0",
           "update_link": "https://github.com/jslittlebird/timespice-syllabus-filter-dist/releases/download/v0.1.0/timespice-syllabus-filter-0.1.0.xpi",
           "update_hash": "sha256:bfd18d92bd8286bb23c28a657d4c6398c3923d71f2a50e204d5ca8f0400fae05"
+        },
+        {
+          "version": "0.1.1",
+          "update_link": "https://github.com/jslittlebird/timespice-syllabus-filter-dist/releases/download/v0.1.1/timespice-syllabus-filter-0.1.1.xpi",
+          "update_hash": "sha256:e1858b50e40516143f65695a9c880dfc3a9813965e2444d945bda4e7a5ac1466"
         }
       ]
     }
